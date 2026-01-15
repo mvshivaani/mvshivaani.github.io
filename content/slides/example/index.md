@@ -5,7 +5,7 @@ date: 2024-01-01
 type: slides
 summary: "A quick tour of recent research highlights: multimodal LLMs, efficient training, and responsible AI."
 slides:
-  theme: black  # Options: black, white, league, beige, sky, night, serif, simple, solarized
+  theme: white  # Options: black, white, league, beige, sky, night, serif, simple, solarized
   highlight_style: dracula  # Code syntax highlighting theme
   diagram: true  # Enable Mermaid diagrams for flowcharts, etc.
   reveal_options:
@@ -45,7 +45,7 @@ slides:
 
 <!-- no-branding -->
 # Example Talk
-### Dr. Alex Johnson · Meta AI
+### MV Shivaani · PhD Student, The University of Texas at Dallas
 
 ---
 

@@ -162,7 +162,7 @@ Create `content/slides/my-talk/index.md`:
 title: "My Amazing Talk"
 type: slides
 slides:
-  theme: black
+  theme: white
 ---
 
 # My Amazing Talk
