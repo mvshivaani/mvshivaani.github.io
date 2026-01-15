@@ -1,6 +1,10 @@
 schema: hugoblox/author/v1
 slug: me
 is_owner: true
+# Local avatar/image files (relative to `assets/media/authors/`)
+image: "manoj-vasudha-shivaani.jpg"
+avatar: "manoj-vasudha-shivaani.jpg"
+photo: "manoj-vasudha-shivaani.jpg"
 name:
   display: MV Shivaani
   given: MV
