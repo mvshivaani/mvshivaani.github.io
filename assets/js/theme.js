@@ -253,11 +253,11 @@ let transTheme = () => {
 };
 
 // Determine the expected state of the theme toggle, which can be "dark", "light", or
-// "system". Default is "system".
+// "system". Default is "light".
 let determineThemeSetting = () => {
   let themeSetting = localStorage.getItem("theme");
   if (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") {
-    themeSetting = "system";
+    themeSetting = "light";
   }
   return themeSetting;
 };
@@ -280,6 +280,11 @@ let determineComputedTheme = () => {
 
 let initTheme = () => {
   let themeSetting = determineThemeSetting();
+  
+  // Ensure default is "light" if no theme is set
+  if (!themeSetting || (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system")) {
+    themeSetting = "light";
+  }
 
   setThemeSetting(themeSetting);
 

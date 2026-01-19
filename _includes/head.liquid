@@ -71,6 +71,18 @@
 
 {% if site.enable_darkmode %}
   <!-- Dark Mode -->
+  <script>
+    // Set default theme to light immediately to prevent flash of dark content
+    (function() {
+      let themeSetting = localStorage.getItem("theme");
+      if (!themeSetting || (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system")) {
+        themeSetting = "light";
+        localStorage.setItem("theme", themeSetting);
+        document.documentElement.setAttribute("data-theme-setting", themeSetting);
+        document.documentElement.setAttribute("data-theme", "light");
+      }
+    })();
+  </script>
   <script src="{{ '/assets/js/theme.js' | relative_url | bust_file_cache }}"></script>
   <link
     defer
