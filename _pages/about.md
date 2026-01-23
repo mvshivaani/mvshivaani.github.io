@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>PhD Student</p>
+    <p>PhD Candidate</p>
     <p>University of Texas at Dallas</p>
     <p>Richardson, TX 75080</p>
 
@@ -27,9 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I'm MV **Shivaani**, a PhD student at the University of Texas at Dallas. My research focuses on accounting, with particular emphasis on financial reporting, disclosure practices, and the application of artificial intelligence and machine learning to accounting problems.
+Hello! I'm MV **Shivaani**, a Ph.D. candidate in Accounting at The University of Texas at Dallas.
 
-I'm passionate about advancing knowledge in accounting research and exploring innovative solutions to complex problems in financial reporting, sustainability, and management accounting. Through my doctoral studies, I aim to contribute meaningful insights to the academic community and address real-world challenges facing the accounting profession.
+I use empirical methods to examine how contractual, informational, and regulatory constraints shape firm behavior. 
+
+I previously earned a Ph.D. in Finance from the Indian Institute of Technology (IIT) Delhi, a Master’s degree in Business Analytics, and a Bachelor’s degree in Commerce (Honors) from Shri Ram College of Commerce (SRCC). Before joining UT Dallas, I served as a faculty member at the Indian Institute of Management (IIM) and Hult International Business School, Boston. I am also a Chartered Accountant, India.
+
+Besides research, I enjoy traveling, photography, culinary arts, and creative writing.
 
 **Research Interests:**
 - Financial Reporting and Disclosure
@@ -37,4 +41,4 @@ I'm passionate about advancing knowledge in accounting research and exploring in
 - ESG/Sustainability
 - Management Accounting
 
-I'm always open to collaborations and discussions about research!
+Thank you for visiting my site!
