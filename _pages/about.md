@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.utdallas.edu/'>University of Texas at Dallas</a>. PhD Student.
 
 profile:
   align: right
@@ -27,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm MV **Shivaani**, a Ph.D. candidate in Accounting at The University of Texas at Dallas.
+Hello! I'm MV **Shivaani**, a Ph.D. candidate in Accounting at <a href='https://www.utdallas.edu/'>University of Texas at Dallas</a>.
 
 I use empirical methods to examine how contractual, informational, and regulatory constraints shape firm behavior. 
 
