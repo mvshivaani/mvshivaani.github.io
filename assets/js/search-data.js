@@ -511,7 +511,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6D%76.%73%68%69%76%61%61%6E%69@%75%74%64%61%6C%6C%61%73.%65%64%75", "_blank");
+          window.open("mailto:%66%78%6D%32%30%30%30%31%37@%75%74%64%61%6C%6C%61%73.%65%64%75", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -519,6 +519,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/shivaani-mv", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=_w2tafgAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
