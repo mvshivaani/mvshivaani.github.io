@@ -12,7 +12,7 @@
 # cv_pdf: /assets/pdf/cv.pdf # path to your CV PDF file - uncomment and add your CV
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: mv.shivaani@utdallas.edu # your email address - please update with your actual email
+email: fxm200017@utdallas.edu # your email address - please update with your actual email
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 # github_username: # your GitHub user name - uncomment and add your username
@@ -36,7 +36,7 @@ linkedin_username: shivaani-mv # your LinkedIn user name
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate - uncomment and add your profile
 # rss_icon: true # comment this line to hide the RSS icon
-# scholar_userid: # your Google Scholar ID - uncomment and add your Google Scholar ID
+scholar_userid: _w2tafgAAAAJ # your Google Scholar ID - uncomment and add your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
