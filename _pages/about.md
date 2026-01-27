@@ -1,6 +1,7 @@
 ---
 layout: about
 title: about
+subtitle: ❝In God we trust; all others must bring data.❞ — W. Edwards Deming
 permalink: /
 
 profile:
